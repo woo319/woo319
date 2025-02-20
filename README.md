@@ -1,8 +1,8 @@
 
 
   [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jyw030319&hide_border=true)](https://solved.ac/jyw030319/)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo319&layout=compact)](https://github.com/woo319)
-  ![YeonWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo319&show_icons=true&theme=monokai&hide_border=true)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=woo319&layout=compact)](https://github.com/woo319)
+  ![YeonWoo's GitHub stats](https://github-readme-stats.vercel.app/api?username=woo319&show_icons=true&theme=monokai&hide_border=true)-->
 
 
 <!--
