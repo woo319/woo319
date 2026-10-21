@@ -39,6 +39,34 @@
 
 ## Featured projects
 
+<table>
+  <tr>
+    <td width="33.33%" align="center">
+      <a href="https://github.com/TEAM-SEED-PLUS/SEED-PLUS-BACKEND">
+        <img src="./assets/seedplus-logo.png" width="180" height="180" alt="SEED+ logo" />
+      </a><br />
+      <b>SEED+</b><br />
+      <sub>창업 의사결정 데이터 플랫폼</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <a href="https://github.com/ORE-OwnRepairExtend/Back">
+        <img src="./assets/ore-logo.png" width="180" height="180" alt="ORE logo" />
+      </a><br />
+      <b>ORE</b><br />
+      <sub>제품 생애주기 관리 서비스</sub>
+    </td>
+    <td width="33.33%" align="center">
+      <a href="https://github.com/KT-AIVLE-BIGPROJECT-AI-1/BE">
+        <img src="./assets/cisp-logo.png" width="180" height="180" alt="CISP logo" />
+      </a><br />
+      <b>CISP</b><br />
+      <sub>AI 경찰 수사 지원 시스템</sub>
+    </td>
+  </tr>
+</table>
+
+<br />
+
 | Project | What I built | Tech |
 | --- | --- | --- |
 | [SEED+](https://github.com/TEAM-SEED-PLUS/SEED-PLUS-BACKEND) | 상권·업종·지역 데이터를 바탕으로 창업 의사결정을 돕는 서비스. 공공데이터 수집 및 정제, 동적 계산기 연동, 분석 API와 운영 배포를 구현했습니다. | Java 21, Spring Boot, JPA, QueryDSL, Flyway, PostgreSQL, AWS |
